@@ -10,4 +10,5 @@ public class Test2 {
     private int age;
     private String name;
     private int height;
+    private double weight;
 }
